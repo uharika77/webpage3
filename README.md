@@ -13,7 +13,7 @@ The webpage discusses the following:
 ## How to Use
 
 - Clone the Repository: Clone the repository to your local machine using the following command:
-git clone https://github.com/yourusername/ott-platforms.git
+git clone https://github.com/uharika77/webpage3.git
 
 - Open the HTML File: Open the index.html file in any web browser to view the content.
 
